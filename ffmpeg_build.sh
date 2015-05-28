@@ -25,6 +25,7 @@ make clean
 --enable-pic \
 --enable-libx264 \
 --enable-libass \
+--enable-libfaac \
 --enable-libfreetype \
 --enable-libfribidi \
 --enable-fontconfig \
