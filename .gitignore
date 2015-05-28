@@ -3,6 +3,7 @@ build
 toolchain-*
 libpng-*
 expat-*
+faac-*
 fribidi-*
 
 # Created by http://www.gitignore.io
