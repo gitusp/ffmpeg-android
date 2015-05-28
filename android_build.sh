@@ -20,6 +20,7 @@ do
   ./libpng_build.sh $i $BASEDIR 1 || exit 1
   ./freetype_build.sh $i $BASEDIR 1 || exit 1
   ./expat_build.sh $i $BASEDIR 1 || exit 1
+  ./faac_build.sh $i $BASEDIR 1 || exit 1
   ./fribidi_build.sh $i $BASEDIR 1 || exit 1
   ./fontconfig_build.sh $i $BASEDIR 1 || exit 1
   ./libass_build.sh $i $BASEDIR 1 || exit 1
