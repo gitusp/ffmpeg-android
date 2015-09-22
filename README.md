@@ -24,7 +24,7 @@ cd yasm-1.3.0/
 sudo  make install
 ```
 * Run following commands to compile ffmpeg
-  1. sudo apt-get --quiet --yes install build-essential git autoconf libtool pkg-config gperf gettext yasm
+  1. sudo apt-get --quiet --yes install build-essential git autoconf libtool pkg-config gperf gettext
   2. ./init_update_libs.sh
   3. ./android_build.sh
 * To update submodules and libraries you can use ./init_update_libs.sh command
