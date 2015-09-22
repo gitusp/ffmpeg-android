@@ -23,7 +23,6 @@ echo $CFLAGS
   --host="$HOST" \
   --enable-pic \
   --enable-static \
-  --disable-shared \
   --prefix="${TOOLCHAIN_PREFIX}" \
   --disable-cli || exit 1
 
